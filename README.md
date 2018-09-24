@@ -1,5 +1,5 @@
 # sunbeam-poster
-Poster for the 2018 ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS).
+Poster for the 2018 ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS). [Direct link to .pdf](https://github.com/sunbeam-labs/sunbeam-poster/raw/master/2018_SunbeamPoster_ASMNGS.pdf).
 
 ## Abstract:
 
