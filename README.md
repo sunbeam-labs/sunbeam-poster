@@ -1,6 +1,8 @@
 # sunbeam-poster
 Poster for the 2018 ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS). [Direct link to .pdf](https://github.com/sunbeam-labs/sunbeam-poster/raw/master/2018_SunbeamPoster_ASMNGS.pdf).
 
+![poster preview](https://github.com/sunbeam-labs/sunbeam-poster/raw/master/2018_ASMNGS_Sunbeam.png)
+
 ## Abstract:
 
 **Background:** Shotgun metagenomic sequencing experiments provide functional and compositional insight into complex microbial communities. To analyze such data, a number of preprocessing and analytical steps must be performed. Many of these steps, such as quality control, adapter trimming, and phylogenetic classification, are common to many sequencing experiments. Other analyses are specific to each study.
